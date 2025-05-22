@@ -1,2 +1,9 @@
-Open file with you browser. Insert your netto income. Press "calculate". Enjoy!
-This version supports Russian laguage only.
+Download and open the file with you browser. Insert your netto income. Press "calculate". Enjoy!
+This version supports Russian laguage only, therefore I continue in Russian 
+Годный, правильный калькулятор налога самозанятого со ставкой 6% для юрлиц. 
+Скачать и открыть с помощью любого браузера. 
+Вписать начисленную сумму.
+Нажать на зелёную кнопку.
+Получить расчёт.
+Для донатов: SBP 9160099635 Reiffeisenbank
+Stanislav N
